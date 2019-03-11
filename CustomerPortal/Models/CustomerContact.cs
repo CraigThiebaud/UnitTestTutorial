@@ -5,10 +5,11 @@ using System.Threading.Tasks;
 
 namespace CustomerPortal.Models
 {
-    public class Contact
+    public class CustomerContact
     {
         public int Id { get; set; }
-        public string type { get; set; }
-        public string value { get; set; }
+        public int CustomerId { get; set; }
+        public string Type { get; set; }
+        public string Value { get; set; }
     }
 }

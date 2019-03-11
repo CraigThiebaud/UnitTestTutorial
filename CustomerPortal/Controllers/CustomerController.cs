@@ -18,21 +18,29 @@ namespace CustomerPortal.Controllers
             customerDbContext = dbContext;
         }
 
-        public void ChangeCustomerName()
+        public void AddCustomer()
         {
 
         }
 
-        public void ChangeCustomerShippingAddress()
+        public Customer GetCustomerById(int id)
+        {
+            var customer = customerDbContext.Customers
+                .Where(c => c.Id == id).First();
+            
+            return customer;
+        }
+
+        public void ChangeCustomerInformationById()
         {
 
         }
 
-        public void AddOrder()
+        public void AddOrderByCustomerId()
         {
 
         }
-        public void RemoveOrder()
+        public void RemoveOrderByCustomerAndOrderId()
         {
 
         }

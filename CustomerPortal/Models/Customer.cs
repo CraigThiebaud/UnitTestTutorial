@@ -12,8 +12,8 @@ namespace CustomerPortal.Models
         public string MiddleName { get; set; }
         public string LastName { get; set; }
         public List<Order> Orders { get; set; }
-        public List<Contact> Contacts { get; set; }
-        public Address ShippingAddress { get; set; }
+        public List<CustomerContact> Contacts { get; set; }
+        public CustomerAddress ShippingAddress { get; set; }
 
     }
 }
