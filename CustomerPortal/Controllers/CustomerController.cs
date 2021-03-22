@@ -31,7 +31,7 @@ namespace CustomerPortal.Controllers
             return customer;
         }
 
-        public void ChangeCustomerInformationById()
+        public void UpdateCustomerById()
         {
 
         }
