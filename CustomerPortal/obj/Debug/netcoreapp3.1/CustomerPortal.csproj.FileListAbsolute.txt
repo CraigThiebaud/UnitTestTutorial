@@ -1,0 +1,5 @@
+C:\Users\craig\source\repos\CraigThiebaud\UnitTestTutorial\CustomerPortal\obj\Debug\netcoreapp3.1\CustomerPortal.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\CraigThiebaud\UnitTestTutorial\CustomerPortal\obj\Debug\netcoreapp3.1\CustomerPortal.AssemblyInfoInputs.cache
+C:\Users\craig\source\repos\CraigThiebaud\UnitTestTutorial\CustomerPortal\obj\Debug\netcoreapp3.1\CustomerPortal.AssemblyInfo.cs
+C:\Users\craig\source\repos\CraigThiebaud\UnitTestTutorial\CustomerPortal\obj\Debug\netcoreapp3.1\CustomerPortal.csproj.CoreCompileInputs.cache
+C:\Users\craig\source\repos\CraigThiebaud\UnitTestTutorial\CustomerPortal\obj\Debug\netcoreapp3.1\CustomerPortal.MvcApplicationPartsAssemblyInfo.cache

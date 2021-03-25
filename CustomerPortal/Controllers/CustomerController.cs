@@ -31,9 +31,9 @@ namespace CustomerPortal.Controllers
             return customer;
         }
 
-        public void UpdateCustomerById()
+        public void UpdateCustomerById(CustomerRequest)
         {
-
+            var customer = customerDbContext.Customers
         }
 
         public void AddOrderByCustomerId()
