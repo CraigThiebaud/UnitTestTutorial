@@ -23,7 +23,7 @@ namespace CustomerPortal.Controllers
 
         }
 
-        public Customer GetCustomerById(int id)
+        public CustomerRequest GetCustomerById(int id)
         {
             var customer = customerDbContext.Customers
                 .Where(c => c.Id == id).First();
